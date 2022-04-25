@@ -1,2 +1,2 @@
 # angular-react
-My first repository on GitHub.
+Using Angular-elements feature in above angular 6 version exposing webcomponet and using react application
